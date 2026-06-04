@@ -11,8 +11,8 @@
   <a href="https://github.com/12345mutouren/software-modules-hub">
     <img src="https://img.shields.io/badge/Public%20Repo-software--modules--hub-151515?style=for-the-badge" alt="software-modules-hub repository">
   </a>
-  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.5.0">
-    <img src="https://img.shields.io/badge/Latest-v1.5.0-e45842?style=for-the-badge" alt="Latest release v1.5.0">
+  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.6.0">
+    <img src="https://img.shields.io/badge/Latest-v1.6.0-e45842?style=for-the-badge" alt="Latest release v1.6.0">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ I am building complete software systems from idea to public release: product map
 
 | Project | What It Does | Links |
 | --- | --- | --- |
-| Software Modules Hub | A productized knowledge hub for understanding and building complete software systems. | [Live site](https://12345mutouren.github.io/software-modules-hub/) · [Repository](https://github.com/12345mutouren/software-modules-hub) |
+| Software Modules Hub | A productized knowledge hub for understanding and building complete software systems. | [Live site](https://12345mutouren.github.io/software-modules-hub/) · [Build Planner](https://12345mutouren.github.io/software-modules-hub/planner.html) · [Repository](https://github.com/12345mutouren/software-modules-hub) |
 
 ## Current Focus
 
@@ -40,7 +40,7 @@ I am building complete software systems from idea to public release: product map
 | Knowledge map | 10 core software modules with categories and design checks |
 | GitHub index | 120 representative repositories organized by module and type |
 | Runnable assets | Mini app, module demos, stack templates and business app templates |
-| Productized docs | GSAP motion, Three.js module network, template selector and repository browser |
+| Productized docs | GSAP motion, Three.js module network, template selector, build planner, scorecard and repository browser |
 | Release system | Local tests, GitHub Actions, GitHub Pages and release notes |
 
 ## Tech I Am Working With
@@ -69,12 +69,13 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 | Entry | Status |
 | --- | --- |
 | Live docs site | Published on GitHub Pages |
-| Release workflow | v1.5.0 shipped |
+| Release workflow | v1.6.0 shipped |
 | Verification | Local test suite and GitHub Actions |
-| Next build direction | More runnable full-stack templates |
+| Next build direction | More runnable full-stack templates and planning tools |
 
 ## Links
 
 - [Software Modules Hub live site](https://12345mutouren.github.io/software-modules-hub/)
+- [Build Planner](https://12345mutouren.github.io/software-modules-hub/planner.html)
 - [Software Modules Hub repository](https://github.com/12345mutouren/software-modules-hub)
-- [v1.5.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.5.0)
+- [v1.6.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.6.0)

@@ -20,5 +20,5 @@
   <rect x="72" y="344" width="198" height="40" rx="6" fill="#E45842"/>
   <text x="171" y="370" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">Software Modules Hub</text>
   <rect x="286" y="344" width="158" height="40" rx="6" fill="none" stroke="#FBFAF6" opacity="0.52"/>
-  <text x="365" y="370" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#FBFAF6">v1.5.0 Live</text>
+  <text x="365" y="370" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#FBFAF6">v1.6.0 Live</text>
 </svg>
