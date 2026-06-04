@@ -11,8 +11,8 @@
   <a href="https://github.com/12345mutouren/software-modules-hub">
     <img src="https://img.shields.io/badge/Public%20Repo-software--modules--hub-151515?style=for-the-badge" alt="software-modules-hub repository">
   </a>
-  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.3.0">
-    <img src="https://img.shields.io/badge/Latest-v1.3.0-e45842?style=for-the-badge" alt="Latest release v1.3.0">
+  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.4.0">
+    <img src="https://img.shields.io/badge/Latest-v1.4.0-e45842?style=for-the-badge" alt="Latest release v1.4.0">
   </a>
 </p>
 
@@ -69,7 +69,7 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 | Entry | Status |
 | --- | --- |
 | Live docs site | Published on GitHub Pages |
-| Release workflow | v1.3.0 shipped |
+| Release workflow | v1.4.0 shipped |
 | Verification | Local test suite and GitHub Actions |
 | Next build direction | More runnable full-stack templates |
 
@@ -77,4 +77,4 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 
 - [Software Modules Hub live site](https://12345mutouren.github.io/software-modules-hub/)
 - [Software Modules Hub repository](https://github.com/12345mutouren/software-modules-hub)
-- [v1.3.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.3.0)
+- [v1.4.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.4.0)
