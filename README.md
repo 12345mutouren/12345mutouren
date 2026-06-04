@@ -20,7 +20,7 @@
 
 I am building complete software systems from idea to public release: product maps, account flows, databases, APIs, frontends, security, operations, testing, business features, documentation and deployable knowledge sites.
 
-Current public work:
+## Signature Project
 
 | Project | What It Does | Links |
 | --- | --- | --- |
@@ -63,6 +63,15 @@ npm test
 ```
 
 It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, deployment playground and docs-site generation.
+
+## Public Launchpad
+
+| Entry | Status |
+| --- | --- |
+| Live docs site | Published on GitHub Pages |
+| Release workflow | v1.3.0 shipped |
+| Verification | Local test suite and GitHub Actions |
+| Next build direction | More runnable full-stack templates |
 
 ## Links
 
