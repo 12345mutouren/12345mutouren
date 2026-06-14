@@ -11,8 +11,8 @@
   <a href="https://github.com/12345mutouren/software-modules-hub">
     <img src="https://img.shields.io/badge/Public%20Repo-software--modules--hub-151515?style=for-the-badge" alt="software-modules-hub repository">
   </a>
-  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.0.0">
-    <img src="https://img.shields.io/badge/Latest-v2.0.0-e45842?style=for-the-badge" alt="Latest release v2.0.0">
+  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.1.0">
+    <img src="https://img.shields.io/badge/Latest-v2.1.0-e45842?style=for-the-badge" alt="Latest release v2.1.0">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ I am building complete software systems from idea to public release: product map
 ## Current Focus
 
 - Turning raw software knowledge into navigable, visual, production-minded documentation.
-- Building runnable templates plus reusable code, data and API foundation packages for SaaS, ecommerce, AI knowledge bases, admin dashboards and AI frontend stacks.
+- Building runnable templates plus reusable code, data, API and web admin app foundations for SaaS, ecommerce, AI knowledge bases, admin dashboards and AI frontend stacks.
 - Using automation, verification and GitHub Actions to keep repositories healthy.
 - Designing static knowledge sites that feel like products, not document dumps.
 
@@ -40,7 +40,8 @@ I am building complete software systems from idea to public release: product map
 | Knowledge map | 10 core software modules with categories and design checks |
 | GitHub index | 121 representative repositories organized by module and type, including CopilotKit / AG-UI |
 | Runnable assets | Mini app, module demos, stack templates and business app templates |
-| Code foundation | Core, security, auth, data and API packages with tested backend flows |
+| Code foundation | Core, security, auth, data and API packages with a browser admin app |
+| Web admin app | Login, content review, exports and audit logs over the API foundation |
 | Productized docs | GSAP motion, Three.js module network, template selector, stack composer with AI frontend layer, build planner, scorecard and repository browser |
 | Release system | Local tests, GitHub Actions, GitHub Pages and release notes |
 
@@ -63,14 +64,14 @@ The public project is verified with:
 npm test
 ```
 
-It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, code foundation packages, data/API foundation packages, deployment playground and docs-site generation.
+It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, code foundation packages, data/API foundation packages, web admin app, deployment playground and docs-site generation.
 
 ## Public Launchpad
 
 | Entry | Status |
 | --- | --- |
 | Live docs site | Published on GitHub Pages |
-| Release workflow | v2.0.0 shipped |
+| Release workflow | v2.1.0 shipped |
 | Verification | Local test suite and GitHub Actions |
 | Next build direction | More runnable full-stack templates and planning tools |
 
@@ -80,4 +81,4 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 - [Stack Composer](https://12345mutouren.github.io/software-modules-hub/stack-composer.html)
 - [Build Planner](https://12345mutouren.github.io/software-modules-hub/planner.html)
 - [Software Modules Hub repository](https://github.com/12345mutouren/software-modules-hub)
-- [v2.0.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.0.0)
+- [v2.1.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.1.0)
