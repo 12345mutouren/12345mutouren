@@ -11,8 +11,8 @@
   <a href="https://github.com/12345mutouren/software-modules-hub">
     <img src="https://img.shields.io/badge/Public%20Repo-software--modules--hub-151515?style=for-the-badge" alt="software-modules-hub repository">
   </a>
-  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.8.0">
-    <img src="https://img.shields.io/badge/Latest-v1.8.0-e45842?style=for-the-badge" alt="Latest release v1.8.0">
+  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.9.0">
+    <img src="https://img.shields.io/badge/Latest-v1.9.0-e45842?style=for-the-badge" alt="Latest release v1.9.0">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ I am building complete software systems from idea to public release: product map
 ## Current Focus
 
 - Turning raw software knowledge into navigable, visual, production-minded documentation.
-- Building runnable templates for SaaS, ecommerce, AI knowledge bases, admin dashboards and AI frontend stacks.
+- Building runnable templates and reusable code foundation packages for SaaS, ecommerce, AI knowledge bases, admin dashboards and AI frontend stacks.
 - Using automation, verification and GitHub Actions to keep repositories healthy.
 - Designing static knowledge sites that feel like products, not document dumps.
 
@@ -40,6 +40,7 @@ I am building complete software systems from idea to public release: product map
 | Knowledge map | 10 core software modules with categories and design checks |
 | GitHub index | 121 representative repositories organized by module and type, including CopilotKit / AG-UI |
 | Runnable assets | Mini app, module demos, stack templates and business app templates |
+| Code foundation | Core, security and auth packages with an admin workflow app |
 | Productized docs | GSAP motion, Three.js module network, template selector, stack composer with AI frontend layer, build planner, scorecard and repository browser |
 | Release system | Local tests, GitHub Actions, GitHub Pages and release notes |
 
@@ -62,14 +63,14 @@ The public project is verified with:
 npm test
 ```
 
-It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, deployment playground and docs-site generation.
+It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, code foundation packages, deployment playground and docs-site generation.
 
 ## Public Launchpad
 
 | Entry | Status |
 | --- | --- |
 | Live docs site | Published on GitHub Pages |
-| Release workflow | v1.8.0 shipped |
+| Release workflow | v1.9.0 shipped |
 | Verification | Local test suite and GitHub Actions |
 | Next build direction | More runnable full-stack templates and planning tools |
 
@@ -79,4 +80,4 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 - [Stack Composer](https://12345mutouren.github.io/software-modules-hub/stack-composer.html)
 - [Build Planner](https://12345mutouren.github.io/software-modules-hub/planner.html)
 - [Software Modules Hub repository](https://github.com/12345mutouren/software-modules-hub)
-- [v1.8.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.8.0)
+- [v1.9.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v1.9.0)
