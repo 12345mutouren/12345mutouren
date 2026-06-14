@@ -11,8 +11,8 @@
   <a href="https://github.com/12345mutouren/software-modules-hub">
     <img src="https://img.shields.io/badge/Public%20Repo-software--modules--hub-151515?style=for-the-badge" alt="software-modules-hub repository">
   </a>
-  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.2.0">
-    <img src="https://img.shields.io/badge/Latest-v2.2.0-e45842?style=for-the-badge" alt="Latest release v2.2.0">
+  <a href="https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.3.0">
+    <img src="https://img.shields.io/badge/Latest-v2.3.0-e45842?style=for-the-badge" alt="Latest release v2.3.0">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ I am building complete software systems from idea to public release: product map
 | GitHub index | 121 representative repositories organized by module and type, including CopilotKit / AG-UI |
 | Runnable assets | Mini app, module demos, stack templates and business app templates |
 | Code foundation | Core, security, auth, database, data and API packages with a browser admin app |
-| Database foundation | Migrations, table registry, unique indexes, transactions and durable local storage |
+| Database foundation | Migrations, table registry, unique indexes, transactions, JSON storage and SQLite SQL storage |
 | Web admin app | Login, content review, exports and audit logs over the API foundation |
 | Productized docs | GSAP motion, Three.js module network, template selector, stack composer with AI frontend layer, build planner, scorecard and repository browser |
 | Release system | Local tests, GitHub Actions, GitHub Pages and release notes |
@@ -65,14 +65,14 @@ The public project is verified with:
 npm test
 ```
 
-It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, code foundation packages, database foundation packages, data/API foundation packages, web admin app, deployment playground and docs-site generation.
+It checks structure, links, freshness, examples, module demos, generators, runnable templates, runnable apps, code foundation packages, SQLite database foundation packages, data/API foundation packages, web admin app, deployment playground and docs-site generation.
 
 ## Public Launchpad
 
 | Entry | Status |
 | --- | --- |
 | Live docs site | Published on GitHub Pages |
-| Release workflow | v2.2.0 shipped |
+| Release workflow | v2.3.0 shipped |
 | Verification | Local test suite and GitHub Actions |
 | Next build direction | More runnable full-stack templates and planning tools |
 
@@ -82,4 +82,4 @@ It checks structure, links, freshness, examples, module demos, generators, runna
 - [Stack Composer](https://12345mutouren.github.io/software-modules-hub/stack-composer.html)
 - [Build Planner](https://12345mutouren.github.io/software-modules-hub/planner.html)
 - [Software Modules Hub repository](https://github.com/12345mutouren/software-modules-hub)
-- [v2.2.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.2.0)
+- [v2.3.0 release notes](https://github.com/12345mutouren/software-modules-hub/releases/tag/v2.3.0)
